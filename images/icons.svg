@@ -185,7 +185,7 @@
     </defs>
     <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="true" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <symbol id="Checkbox" viewBox="0 0 14 14" fill="none">
+        <symbol id="checkbox" viewBox="0 0 14 14" fill="none">
             <rect stroke-width="0.875" stroke="currentColor" stroke-opacity="0.4" width="13.125" height="13.125" rx="1.3125" x="0.4375" y="0.4375" />
         </symbol>
     </defs>
