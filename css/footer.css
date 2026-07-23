@@ -138,7 +138,7 @@
     justify-content: center;
     gap: 16px;
     font-family: "Roboto", sans-serif;
-    font-family: #fff;
+    color: #fff;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -158,4 +158,18 @@
 .footer-submit-button:hover,
 .footer-submit-button:focus {
     background-color: #31d0aa;
+}
+
+.footer-form-input::placeholder {
+    opacity: 1;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.16667;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+
+.footer-form-input:focus {
+    border-color: #31d0aa;
 }

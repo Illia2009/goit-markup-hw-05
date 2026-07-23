@@ -96,6 +96,7 @@
     transition-property: border-color;
 }
 
+
 .form-label {
     display: block;
     font-family: "Roboto", sans-serif;
@@ -140,7 +141,7 @@
     height: 120px;
     resize: none;
     overflow-y: auto;
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
@@ -190,7 +191,6 @@
     color: #fff;
 }
 
-/*custom checkbox*/
 
 .modal-form-agreement {
     margin-bottom: 24px;
@@ -250,4 +250,6 @@
     text-decoration: underline;
 }
 
-
+.form-field {
+    margin-bottom: 8px;
+}
